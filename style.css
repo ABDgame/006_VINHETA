@@ -3,7 +3,16 @@ body
 {
     margin: 0;
     padding:0;
-    background: url("VINHETA.jpg");
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("VINHETA.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:'Press Start 2P', cursive; 
 }
 canvas {
   width:100%;
