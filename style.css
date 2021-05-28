@@ -8,10 +8,10 @@ body
     align-items: center;
     min-height: 100vh;*/
     background-image: url("VINHETA.jpg");
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
     
 }
 canvas {
